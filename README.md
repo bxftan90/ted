@@ -68,8 +68,7 @@ TEDLIUM_release2/
 
 ## Language Model Details
 
-The 4-gram language model was trained using [KenLM](https://github.com/kpu/kenlm), based on guidance from the Hugging Face tutorial:  
-👉 [Boosting Wav2Vec2 with n-grams in Transformers (Colab)](https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Boosting_Wav2Vec2_with_n_grams_in_Transformers.ipynb)
+The 4-gram language model was trained using [KenLM](https://github.com/kpu/kenlm), based on guidance from the Hugging Face tutorial:  [Boosting Wav2Vec2 with n-grams in Transformers (Colab)](https://colab.research.google.com/github/patrickvonplaten/notebooks/blob/master/Boosting_Wav2Vec2_with_n_grams_in_Transformers.ipynb)
 
 - **Corpus**: Cleaned transcripts from [TED-LIUM2](https://www.openslr.org/19/)  
 - **Format**: All `.sph` audio was manually converted to `.wav`  
@@ -86,7 +85,7 @@ All AI-generated code was manually reviewed and modified as needed to ensure cor
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This work is part of the MSc Voice Technology program and made possible by the **Hábrók HPC cluster** at the University of Groningen.  
 Special thanks to the open-source tools used:  
