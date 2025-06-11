@@ -15,7 +15,7 @@ The base ASR model used is [`facebook/wav2vec2-base-100h`](https://huggingface.c
 
 All experiments were conducted on the **Hábrók High-Performance Computing (HPC) Cluster** at the University of Groningen:
 
-- **GPU**: NVIDIA A100 (40GB VRAM)  
+- **GPU**: NVIDIA A100
 - **CPU**: 20 cores  
 - **Memory**: 48GB  
 
