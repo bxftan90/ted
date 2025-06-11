@@ -17,8 +17,7 @@ All experiments were conducted on the **Hábrók High-Performance Computing (HPC
 
 - **GPU**: NVIDIA A100 (40GB VRAM)  
 - **CPU**: 20 cores  
-- **RAM**: 48GB  
-- **Platform**: Linux (SLURM-based job scheduler)
+- **Memory**: 48GB  
 
 This configuration enabled efficient batch inference, decoding, and large-scale evaluation with no memory bottlenecks.
 
